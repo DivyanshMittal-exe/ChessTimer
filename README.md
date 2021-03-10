@@ -4,6 +4,11 @@
 This is a simple and elegant chess timer app which packs all the required options.
 First select the type of game you want to play from the standard set or select a custom time. Pressing the start button, starts white's timer and pressing its tile stops it, gives an increment, and starts your opponents timer. After the time runs, a popup shows who won. To pause just click the pause button in hte middle. To go back just click the stop button.
 
+![Screenshot_1615367653](https://user-images.githubusercontent.com/78041366/110627183-a6b09f00-81c7-11eb-98cb-3a962440c755.png)
+![Screenshot_1615367680](https://user-images.githubusercontent.com/78041366/110627190-a7e1cc00-81c7-11eb-9218-f77c975ccb69.png)
+![Screenshot_1615368091](https://user-images.githubusercontent.com/78041366/110627194-a912f900-81c7-11eb-8bd7-a7856e53416a.png)
+
+
 
 
 
